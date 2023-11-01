@@ -1,0 +1,8 @@
+spring:
+  elasticsearch:
+    uris: https://1248a67e11084e1caa1ddc6c24a363f4.us-east-2.aws.elastic-cloud.com
+    username: elastic
+    password: PlCL1wxoaYeLOQGW4pb9OnTy
+  profiles:
+    active: dev
+
